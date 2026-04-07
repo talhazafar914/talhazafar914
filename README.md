@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Raja Talha!<br><br>I am an experienced iOS developer with 3.5 years of expertise in designing and developing high-quality, cross-platform mobile & tvOS applications. My focus lies in creating efficient, scalable, and visually appealing solutions that deliver exceptional user experiences.
+👋 Hi, I'm Raja Talha!<br><br>I am an experienced iOS developer with 4.5 years of expertise in designing and developing high-quality, cross-platform mobile & tvOS applications. My focus lies in creating efficient, scalable, and visually appealing solutions that deliver exceptional user experiences.
 
 
 ## 🌐 Socials:
